@@ -1,0 +1,5 @@
+package com.andrealef.w2mongo.api;
+
+public class W2Services {
+
+}

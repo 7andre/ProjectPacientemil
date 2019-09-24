@@ -1,0 +1,5 @@
+package com.andrealef.pacientemilmongo.repository;
+
+public class PacientemilRepository {
+
+}

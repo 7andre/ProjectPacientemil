@@ -1,0 +1,10 @@
+package com.andrealef.w2mongo.api;
+
+class W2SpringMongodbApplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

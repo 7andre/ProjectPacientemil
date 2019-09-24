@@ -1,0 +1,5 @@
+package com.andrealef.pacientemilmongo.domain;
+
+public class Pacientemil {
+
+}

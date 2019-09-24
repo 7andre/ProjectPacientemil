@@ -1,0 +1,5 @@
+package com.andrealef.w2mongo.api.resources;
+
+public class w2Resources {
+
+}
